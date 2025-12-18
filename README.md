@@ -1,0 +1,1 @@
+# product_qr_code_auto_generation
